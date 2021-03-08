@@ -1,0 +1,1 @@
+Enkelt tärningspel där användaren spelar emot datorn. Tre tärningar kastas av användaren och datorn. Alla tärningar kastas samtidigt och alla resultat visas direkt. För att spela fler gånger är det bara att fortsätta klicka på knappen.
